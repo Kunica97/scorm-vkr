@@ -7,4 +7,4 @@
 
 **password:** iloveweb
 
-Инструкция по развертке LMS с помощью контейнерного решения: [файл](https://github.com/Kunica97/scorm-vkr/blob/master/docker)
+Инструкция по развертке LMS с помощью контейнерного решения: [файл](https://github.com/Kunica97/scorm-vkr/blob/master/docker), [видеоурок](https://youtu.be/RtB3YwF2tFc)
