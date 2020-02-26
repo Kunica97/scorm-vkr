@@ -1,7 +1,7 @@
 # scorm-vkr
 Отчет о проделанной работе
 
-На платформе Moodle https://web.moodlecloud.com/login/index.php
+На платформе Moodle https://web.moodlecloud.com/login/index.php (необходима самозапись на курс ЭИОС)
 
 **Login:** student2020
 
