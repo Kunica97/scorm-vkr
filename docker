@@ -1,28 +1,16 @@
 Инструкция по развертке курса с помощью контейнерного решения:
 
 1. Установить сервер
-
 2. Через командную строку зайти на сервер. используя команду ssh root@вашip
-
 3. Выполнить apt update
-
 4. Выполнить apt install docker.io docker-compose apt-transport-https ca-certificates curl software-properties-common
-
 5. Проверить docker version и docker-compose version
-
 6. Создать папку mkdir sites 
-
 7. Перейти в папку cd sites
-
 8. Создать папку mkdir data
-
 9. Выполнить curl -kSL 'https://kodaktor.ru/perfect.docker-compose.yml' -o 'docker-compose.yml'
 https://gist.github.com/gossoudarev/bf4d60e1f478790bac5282d396c5665b
-
 10. Выполнить nano docker-compose.yml
-
 11. Выполнить curl -kSLO 'https://kodaktor.ru/dump.sql
-
 12. Выполнить docker-compose up
-
 13. Переходим по адресу вашip/moodle
